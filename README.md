@@ -16,7 +16,7 @@ This project is an image generation tool that uses stable diffusion techniques t
 To use the image generator tool, follow these steps:
 
 1. Open the Google Colab notebook:
-   [Image Generator using Stable Diffusion](link_to_your_colab_notebook)
+   [Image Generator using Stable Diffusion](https://colab.research.google.com/drive/1aHXiuhGrXipmT1LPyTq67D5Sg1kS7vD2#scrollTo=syaH2P5xpbSa)
 
 2. Make a copy of the notebook to your own Google Drive:
    ```
